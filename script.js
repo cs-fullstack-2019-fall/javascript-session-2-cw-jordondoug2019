@@ -92,6 +92,7 @@ function main() {
 
     // Get the operation to perform from the User
     current_operation = prompt("Enter the math operation to be performed (ADD)").toUpperCase();
+     // NOTE : update prompt
 
         // Get the 2 numbers for the operation
         // let first_int = parseInt(prompt(`Enter the 1st number for ${current_operation}`));
